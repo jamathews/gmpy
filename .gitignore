@@ -1,7 +1,8 @@
 **.pyc
+.DS_Store
+.vscode/
 build/
 dist/
 docs/_build
 gmpy2.egg-info/
 MANIFEST
-.vscode/
